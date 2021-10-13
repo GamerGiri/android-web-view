@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewApp</string>
+    <string name="url">https://www.google.com</string>
+</resources>
